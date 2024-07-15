@@ -1,7 +1,5 @@
 body {
     background-color: #002C7C;
-  }
-  body {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -9,4 +7,4 @@ body {
     display: flex;
     flex-direction: column; /* Stack elements vertically */
     align-items: center; /* Optional for horizontal centering */
-  }
+  }

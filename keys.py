@@ -1,5 +1,4 @@
-python
-Copy code
+
 from flask import Flask, request, jsonify
 from Crypto.Cipher import AES
 import os

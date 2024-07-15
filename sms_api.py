@@ -1,4 +1,5 @@
 Sending SMS:
+
 from twilio.rest import Client
 
 def send_sms(to, body):
